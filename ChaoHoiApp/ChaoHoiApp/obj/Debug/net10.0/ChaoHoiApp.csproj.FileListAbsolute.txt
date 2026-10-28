@@ -1,0 +1,14 @@
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\ChaoHoiApp\ChaoHoiApp\bin\Debug\net10.0\ChaoHoiApp.exe
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\ChaoHoiApp\ChaoHoiApp\bin\Debug\net10.0\ChaoHoiApp.deps.json
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\ChaoHoiApp\ChaoHoiApp\bin\Debug\net10.0\ChaoHoiApp.runtimeconfig.json
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\ChaoHoiApp\ChaoHoiApp\bin\Debug\net10.0\ChaoHoiApp.dll
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\ChaoHoiApp\ChaoHoiApp\bin\Debug\net10.0\ChaoHoiApp.pdb
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\ChaoHoiApp\ChaoHoiApp\obj\Debug\net10.0\ChaoHoiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\ChaoHoiApp\ChaoHoiApp\obj\Debug\net10.0\ChaoHoiApp.AssemblyInfoInputs.cache
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\ChaoHoiApp\ChaoHoiApp\obj\Debug\net10.0\ChaoHoiApp.AssemblyInfo.cs
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\ChaoHoiApp\ChaoHoiApp\obj\Debug\net10.0\ChaoHoiApp.csproj.CoreCompileInputs.cache
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\ChaoHoiApp\ChaoHoiApp\obj\Debug\net10.0\ChaoHoiApp.dll
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\ChaoHoiApp\ChaoHoiApp\obj\Debug\net10.0\refint\ChaoHoiApp.dll
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\ChaoHoiApp\ChaoHoiApp\obj\Debug\net10.0\ChaoHoiApp.pdb
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\ChaoHoiApp\ChaoHoiApp\obj\Debug\net10.0\ChaoHoiApp.genruntimeconfig.cache
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\ChaoHoiApp\ChaoHoiApp\obj\Debug\net10.0\ref\ChaoHoiApp.dll

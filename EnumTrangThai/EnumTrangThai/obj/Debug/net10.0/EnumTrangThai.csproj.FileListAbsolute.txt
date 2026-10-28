@@ -1,0 +1,15 @@
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\EnumTrangThai\EnumTrangThai\bin\Debug\net10.0\EnumTrangThai.exe
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\EnumTrangThai\EnumTrangThai\bin\Debug\net10.0\EnumTrangThai.deps.json
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\EnumTrangThai\EnumTrangThai\bin\Debug\net10.0\EnumTrangThai.runtimeconfig.json
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\EnumTrangThai\EnumTrangThai\bin\Debug\net10.0\EnumTrangThai.dll
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\EnumTrangThai\EnumTrangThai\bin\Debug\net10.0\EnumTrangThai.pdb
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTrangThai.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTrangThai.AssemblyInfoInputs.cache
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTrangThai.AssemblyInfo.cs
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTrangThai.csproj.CoreCompileInputs.cache
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTrangThai.dll
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\refint\EnumTrangThai.dll
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTrangThai.pdb
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTrangThai.genruntimeconfig.cache
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\ref\EnumTrangThai.dll
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTran.BCB6B7FB.Up2Date

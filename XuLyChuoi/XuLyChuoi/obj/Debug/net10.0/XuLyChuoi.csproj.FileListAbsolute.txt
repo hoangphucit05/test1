@@ -1,0 +1,15 @@
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\XuLyChuoi\XuLyChuoi\bin\Debug\net10.0\XuLyChuoi.exe
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\XuLyChuoi\XuLyChuoi\bin\Debug\net10.0\XuLyChuoi.deps.json
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\XuLyChuoi\XuLyChuoi\bin\Debug\net10.0\XuLyChuoi.runtimeconfig.json
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\XuLyChuoi\XuLyChuoi\bin\Debug\net10.0\XuLyChuoi.dll
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\XuLyChuoi\XuLyChuoi\bin\Debug\net10.0\XuLyChuoi.pdb
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\XuLyChuoi\XuLyChuoi\obj\Debug\net10.0\XuLyChuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\XuLyChuoi\XuLyChuoi\obj\Debug\net10.0\XuLyChuoi.AssemblyInfoInputs.cache
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\XuLyChuoi\XuLyChuoi\obj\Debug\net10.0\XuLyChuoi.AssemblyInfo.cs
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\XuLyChuoi\XuLyChuoi\obj\Debug\net10.0\XuLyChuoi.csproj.CoreCompileInputs.cache
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\XuLyChuoi\XuLyChuoi\obj\Debug\net10.0\XuLyChuoi.dll
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\XuLyChuoi\XuLyChuoi\obj\Debug\net10.0\refint\XuLyChuoi.dll
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\XuLyChuoi\XuLyChuoi\obj\Debug\net10.0\XuLyChuoi.pdb
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\XuLyChuoi\XuLyChuoi\obj\Debug\net10.0\XuLyChuoi.genruntimeconfig.cache
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\XuLyChuoi\XuLyChuoi\obj\Debug\net10.0\ref\XuLyChuoi.dll
+D:\Lập_trình_trực_quan\BT luyện tập\bt chương 1\XuLyChuoi\XuLyChuoi\obj\Debug\net10.0\XuLyChuoi.csproj.Up2Date
